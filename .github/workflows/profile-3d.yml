@@ -5,18 +5,32 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - uses: peaceiris/actions-gh-pages@v3
+
+      - uses: actions/checkout@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: profile-3d-contrib
-          publish_branch: output
-          keep_files: true
+          ref: output
+          path: out
+
+      - run: |
+          cp -r profile-3d-contrib out/
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff --quiet --staged; then
+            git commit -m "Update 3D contribution graph [skip ci]"
+            git push origin output
+          fi

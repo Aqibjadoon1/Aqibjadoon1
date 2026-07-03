@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,20 +19,20 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
           color_snake: "#8B5CF6"
-          color_dots:
-            - "#1a1a2e"
-            - "#4a1a6e"
-            - "#7B3ED4"
-            - "#9B5DE5"
-            - "#C084FC"
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/checkout@v4
         with:
-          name: snake-svg
-          path: dist
+          ref: output
+          path: out
 
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+      - run: |
+          cp dist/snake.svg out/snake.svg
+          cp dist/snake-dark.svg out/snake-dark.svg
+          cd out
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          if ! git diff --quiet --staged; then
+            git commit -m "Update snake SVGs [skip ci]"
+            git push origin output
+          fi
