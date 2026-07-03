@@ -4,24 +4,7 @@
 
 <p align="center"><b>Computer Science · Front-End · React</b></p>
 
-```bash
-┌──(Aqib㉿dev)-[~]
-└─$ whoami
-Aqib Jadoon — CS student, front-end developer, builder of web things
-
-┌──(Aqib㉿dev)-[~]
-└─$ cat skills.txt
-React · TypeScript · Tailwind CSS · Node.js · C# · PostgreSQL
-
-┌──(Aqib㉿dev)-[~]
-└─$ ./currently-building.sh
-🚧 CineVerse — Netflix-inspired movie explorer
-🚧 AI Agent Chat UI — Claude-powered interface
-🚧 Diving deeper into React, system design & computer networks
-
-┌──(Aqib㉿dev)-[~]
-└─$
-```
+<img src="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/main/terminal.svg" alt="Terminal whoami" width="100%" />
 
 - 🔭 CS student in Islamabad, focused on front-end development with React & TypeScript
 - 🧠 Diving deep into computer architecture, x86 Assembly, and systems-level coursework
