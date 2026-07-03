@@ -51,13 +51,13 @@ React · TypeScript · Tailwind CSS · Node.js · C# · PostgreSQL
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aqibjadoon1&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" height="170" />
+    <img src="https://gh-readme-stats.vercel.app/api?username=Aqibjadoon1&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" height="170" />
   </a>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Aqibjadoon1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibjadoon1&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" alt="Top Languages" height="170" />
+    <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Aqibjadoon1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@ React · TypeScript · Tailwind CSS · Node.js · C# · PostgreSQL
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aqibjadoon1&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy-api.vercel.app/?username=Aqibjadoon1&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
   </a>
 </p>
 
@@ -159,7 +159,7 @@ React · TypeScript · Tailwind CSS · Node.js · C# · PostgreSQL
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aqibjadoon1&icon=0&color=8B5CF6" alt="Visitor Count" />
+  <img src="https://visitorbadge.io/status?path=Aqibjadoon1&label=Visitors&countColor=%238B5CF6&labelColor=%23000000" alt="Visitor Count" />
 </p>
 
 ## 📋 Recent GitHub Activity
