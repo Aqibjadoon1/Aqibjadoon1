@@ -1,71 +1,103 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aqib+Jadoon+%F0%9F%91%8B;CS+Student;Front-End+Developer;React+Enthusiast;Building+CineVerse+%26+more" alt="Typing SVG" />
-  </a>
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg" />
+  <img alt="Aqib Jadoon Banner" src="header-light.svg" width="100%" />
+</picture>
 
-<p align="center">
-  <b>Computer Science &middot; Front-End &middot; React</b>
-</p>
+```bash
+┌──(Aqib㉿dev)-[~]
+└─$ whoami
+Aqib Jadoon — CS student, front-end developer, builder of web things
 
----
+┌──(Aqib㉿dev)-[~]
+└─$ cat skills.txt
+React · TypeScript · Tailwind CSS · Node.js · C# · PostgreSQL
 
-## 👋 About Me
+┌──(Aqib㉿dev)-[~]
+└─$ ./currently-building.sh
+🚧 CineVerse — Netflix-inspired movie explorer
+🚧 AI Agent Chat UI — Claude-powered interface
+🚧 Diving deeper into React, system design & computer networks
 
-- 🔭 CS student in Islamabad, focused on front-end development with React & TypeScript  
-- 🧠 Diving deep into computer architecture, x86 Assembly, and systems-level coursework  
-- 🚀 Building real-world projects with modern stacks — from pipeline simulators to full-stack apps  
+┌──(Aqib㉿dev)-[~]
+└─$
+```
+
+- 🔭 CS student in Islamabad, focused on front-end development with React & TypeScript
+- 🧠 Diving deep into computer architecture, x86 Assembly, and systems-level coursework
 - ⚡ Love turning complex ideas into clean, performant interfaces
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
-## 🛠️ Tech Stack
-
-**Languages**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Languages&fontSize=24&fontColor=ffffff&height=45" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Languages&fontSize=24&fontColor=1f2937&height=45" />
+  <img alt="Languages" src="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Languages&fontSize=24&fontColor=ffffff&height=45" width="100%" />
+</picture>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs&theme=dark)](https://skillicons.dev)
 
-**Frontend**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Frontend&fontSize=24&fontColor=ffffff&height=45" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Frontend&fontSize=24&fontColor=1f2937&height=45" />
+  <img alt="Frontend" src="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Frontend&fontSize=24&fontColor=ffffff&height=45" width="100%" />
+</picture>
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,tailwind,blazor&theme=dark)](https://skillicons.dev)
 
-**Backend & Tools**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Backend+%26+Tools&fontSize=24&fontColor=ffffff&height=45" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Backend+%26+Tools&fontSize=24&fontColor=1f2937&height=45" />
+  <img alt="Backend & Tools" src="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Backend+%26+Tools&fontSize=24&fontColor=ffffff&height=45" width="100%" />
+</picture>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet,git,postgres&theme=dark)](https://skillicons.dev)
 
-**Currently Learning**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Currently+Learning&fontSize=24&fontColor=ffffff&height=45" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Currently+Learning&fontSize=24&fontColor=1f2937&height=45" />
+  <img alt="Currently Learning" src="https://capsule-render.vercel.app/api?type=text&color=8B5CF6&text=Currently+Learning&fontSize=24&fontColor=ffffff&height=45" width="100%" />
+</picture>
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,redux,docker&theme=dark)](https://skillicons.dev)
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
-## 📊 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aqibjadoon1&theme=tokyonight&hide_border=true&show_icons=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Aqibjadoon1&theme=catppuccin_latte&hide_border=true&show_icons=true&bg_color=00000000" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aqibjadoon1&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
+</picture>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aqibjadoon1&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" height="170" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Aqibjadoon1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibjadoon1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="170" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Aqibjadoon1&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Aqibjadoon1&theme=default&hide_border=true&background=FFFFFF" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Aqibjadoon1&theme=tokyonight&hide_border=true" height="170" />
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibjadoon1&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibjadoon1&theme=catppuccin_latte&hide_border=true&layout=compact&bg_color=00000000" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aqibjadoon1&theme=tokyonight&hide_border=true&layout=compact" height="170" />
+</picture>
 
-## 🏆 GitHub Trophies
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Aqibjadoon1&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Aqibjadoon1&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Aqibjadoon1&theme=flat&no-frame=true&row=1&column=6" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Aqibjadoon1&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+</picture>
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
-## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/profile-3d-contrib/profile-season-animate.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/profile-3d-contrib/profile-season.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/profile-3d-contrib/profile-season-animate.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/snake-dark.svg" />
@@ -73,7 +105,7 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/snake.svg" />
 </picture>
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
 ## 📌 Featured Projects
 
@@ -124,15 +156,7 @@
 [![](https://img.shields.io/badge/-API-8B5CF6?style=flat-square)](#)
 [![Coming Soon](https://img.shields.io/badge/Coming_Soon-8B5CF6?style=flat-square)](#)
 
----
-
-## 📚 Currently Learning / Building
-
-- Deepening React patterns, state management, and performance optimization  
-- System design & architecture for scalable front-end applications  
-- Computer Networks coursework — routing protocols, TCP/IP, network security  
-
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
 ## 🤝 Let's Connect
 
@@ -148,10 +172,34 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="60%" />
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Aqibjadoon1&icon=0&color=8B5CF6" alt="Visitor Count" />
 </p>
 
-<sub>Last refreshed: 2026-07-03</sub>
+## 📋 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--
+SETUP NOTES FOR WORKFLOWS:
+  
+  1. snake.yml — Contribution Snake (runs every 12h)
+     Requires: output branch with GitHub Pages enabled.
+     Go to Settings > Pages > Branch: output, folder: / (root).
+     The workflow pushes SVGs to this branch automatically.
+  
+  2. profile-3d.yml — 3D Contribution Graph (runs daily)
+     Requires: same output branch as snake, keep_files: true avoids conflicts.
+     The 3D SVGs land at output/profile-3d-contrib/ on the output branch.
+  
+  3. activity.yml — Recent GitHub Activity Feed (runs every 6h)
+     Requires: Actions enabled. This workflow reads your recent activity
+     and injects it between the <!--START_SECTION:activity--> markers above.
+     No extra branch or Pages setup needed.
+  
+  To enable: Go to your repo's Actions tab and ensure workflows are enabled.
+-->
