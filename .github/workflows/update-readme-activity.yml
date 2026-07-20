@@ -1,0 +1,41 @@
+# GitHub Activity Feed Workflow
+#
+# NO SETUP REQUIRED — this workflow uses the built-in GITHUB_TOKEN secret
+# that GitHub provides automatically for every repository.
+#
+# It runs every 6 hours and fills the
+#   <!--START_SECTION:activity--> ... <!--END_SECTION:activity-->
+# block in README.md with your 5 most recent public GitHub events
+# (pushes, PRs, issues, comments, stars, etc.).
+#
+# Just push this file to the repo and it will start working on the next
+# scheduled run (or trigger it manually from the Actions tab).
+
+name: Update GitHub Activity Feed
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # allow manual trigger from the Actions tab
+
+jobs:
+  update-readme:
+    name: Update README with recent GitHub activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update activity section in README
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Number of recent activity entries to show (default 5)
+          MAX_LINES: 5
+          # Commit message used when the README is updated
+          COMMIT_MSG: "chore: update recent GitHub activity"
+          # Target README file
+          TARGET_FILE: "README.md"

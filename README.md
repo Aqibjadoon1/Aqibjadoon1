@@ -44,6 +44,13 @@
   </a>
 </p>
 
+<!-- Animated summary cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aqibjadoon1&theme=tokyonight" alt="Repos Per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aqibjadoon1&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aqibjadoon1&theme=tokyonight" alt="Stats Summary" width="32%" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
 ## 🏆 GitHub Trophies
@@ -69,6 +76,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aqibjadoon1/Aqibjadoon1/output/snake.svg" />
 </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aqibjadoon1&theme=react-dark&hide_border=true&area=true&color=8B5CF6&line=8B5CF6" alt="Activity Graph" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
+
+## ⏱️ Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
@@ -142,9 +164,19 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Dev Joke" width="60%" />
+</p>
+
+<p align="center">
   <img src="https://visitorbadge.io/status?path=Aqibjadoon1&label=Visitors&countColor=%238B5CF6&labelColor=%23000000" alt="Visitor Count" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=8B5CF6&height=100&section=footer" width="100%" />
 
 ## 📋 Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+great+together!" alt="Footer Typing SVG" />
+</p>
